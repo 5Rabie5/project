@@ -6,5 +6,6 @@ $("#txt").text(c);
 l=i-n;
 $("#txt2").text(l);
 
-m=i*n;
+m=i/n;
+
 $("#txt3").text(m);
